@@ -89,3 +89,8 @@
   </a>
 </p>
 
+## 📈 My GitHub Stats
+
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvvasisht&show_icons=true&theme=radical" alt=dhruvvasisht" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvasisht&layout=compact&theme=radical" alt="dhruvvasisht" /></p>
