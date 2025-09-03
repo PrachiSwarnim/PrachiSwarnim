@@ -3,7 +3,7 @@
 
 ## 📖 About Me
 
-- 🎓 I'm a Btech Computer Science Graduate from [K.R Mangalam University. Gurugram](https://www.krmangalam.edu.in/).
+- 🎓 I'm a Btech Computer Science Graduate from [K.R Mangalam University, Gurugram](https://www.krmangalam.edu.in/).
 - 🌱 I’m currently Mastering in  **Data Science**.
 - 👨‍💻 All of my projects are available at [https://github.com/PrachiSwarnim](https://github.com/PrachiSwarnim)
 
