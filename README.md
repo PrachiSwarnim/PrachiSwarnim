@@ -115,4 +115,6 @@ I am a **B.Tech Computer Science graduate** from K.R. Mangalam University, curre
 I am always open to collaborating on open-source projects or discussing new opportunities in the Data Science landscape.
 
 * **Portfolio:** [github.com/PrachiSwarnim](https://github.com/PrachiSwarnim)
-* **Email:** [Your Professional Email Here]
+* **Email:** [<a href="mailto:prachi.swarnim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>]
