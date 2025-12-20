@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SwarnimPrachi" height="30" width="40" />
   </a>
   <a href="mailto:prachi.swarnim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" padding-top="5px"/>
   </a>
 </p>
 
