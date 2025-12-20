@@ -85,18 +85,8 @@ I am a **B.Tech Computer Science graduate** from K.R. Mangalam University, curre
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 </p>
 
----
-
-## 📈 Performance Metrics
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prachiswarnim&show_icons=true&theme=radical" alt=prachiswarnim" /></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachiswarnim&layout=compact&theme=radical" />
-</div>
-
----
-
- <!-- Version Control -->
+### Version Control
+<p align="left>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -107,6 +97,18 @@ I am a **B.Tech Computer Science graduate** from K.R. Mangalam University, curre
     <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" width="40" height="40"/> 
   </a>
 </p>
+
+
+---
+
+## 📈 Performance Metrics
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prachiswarnim&show_icons=true&theme=radical" alt=prachiswarnim" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachiswarnim&layout=compact&theme=radical" />
+</div>
+
+---
 
 ## 🤝 Connect with Me
 I am always open to collaborating on open-source projects or discussing new opportunities in the Data Science landscape.
