@@ -17,8 +17,8 @@
 
 I am a **B.Tech Computer Science graduate** from K.R. Mangalam University, currently specializing in **Data Science**. I bridge the gap between robust software engineering principles and data-driven decision-making. My focus lies in building scalable machine learning models and extracting actionable insights from complex datasets.
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering.
-- 🎯 **Current Focus:** Advancing expertise in Predictive Modeling, Deep Learning, and Big Data Analytics.
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (Spv. Artificial Intelligence and Machine Learning), K.R. Managalm University, Gurugram, Haryana, India
+- 🎯 **Current Focus:** Advancing expertise in Generative AI, Predictive Modeling, Deep Learning, and Big Data Analytics.
 - 🚀 **Goal:** Leveraging computational efficiency to solve real-world data challenges.
 
 ---
