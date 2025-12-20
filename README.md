@@ -96,6 +96,18 @@ I am a **B.Tech Computer Science graduate** from K.R. Mangalam University, curre
 
 ---
 
+ <!-- Version Control -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" width="40" height="40"/> 
+  </a>
+</p>
+
 ## 🤝 Connect with Me
 I am always open to collaborating on open-source projects or discussing new opportunities in the Data Science landscape.
 
