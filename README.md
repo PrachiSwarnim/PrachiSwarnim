@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Swarnim</h1>
-<h3 align="center">Data Scientist & Computer Science Graduate</h3>
+<h3 align="center">Data Science Practitioner & Computer Science Graduate</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prachi-swarnim29/" target="blank">
